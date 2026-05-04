@@ -107,6 +107,9 @@ The comparison between Day 3 and Day 5 highlights a shift from early protein tur
 ## Notes
 - Raw sequencing data is not included due to size and institutional restrictions.
 - This project focuses on computational analysis and biological interpretation.
+  
+## Reproducibility
+The analysis workflow and key steps are documented in the `scripts/analysis_pipeline.md` file.
 
 ## Author
 Jiya K J  
