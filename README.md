@@ -54,7 +54,7 @@ Early infection (Day 3) shows enrichment of protein catabolic and ubiquitin-medi
 ## 🔹 Day 5 vs Control
 
 ### PCA
-![PCA](Figures/PCA/PCA_Day5_vs_Control.png)
+![PCA](Figures/PCA/PCA_Day5_vs_control.png)
 
 ### Heatmap
 ![Heatmap](Figures/Heatmap/Heatmap_Day5_vs_Control.png)
