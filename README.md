@@ -31,7 +31,7 @@ The goal was to identify differentially expressed genes and understand affected 
 ## 🔹 Day 3 vs Control
 
 ### PCA
-![PCA](Figures/PCA Plot/PCA Plot_Day3_vs_Control.png)
+![PCA](Figures/PCA/PCA_ Day3_vs_control.png)
 
 ### Heatmap
 ![Heatmap](Figures/Heatmap/Heat Map_Day3_vs_Control.png)
