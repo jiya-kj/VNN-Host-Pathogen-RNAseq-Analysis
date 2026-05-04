@@ -97,3 +97,11 @@ Later stage (Day 5) shows enrichment of ribosomal and immune-related processes, 
 **Interpretation:**  
 The comparison between Day 3 and Day 5 highlights a shift from early protein turnover and metabolic processes to enhanced ribosomal activity and immune-related responses, indicating progression toward a coordinated antiviral defense.
 
+## Notes
+- Raw sequencing data is not included due to size and institutional restrictions.
+- This project focuses on computational analysis and biological interpretation.
+
+## Author
+Jiya K J  
+M.Tech Marine Biotechnology  
+Bioinformatics | RNA-seq | Host–Pathogen Interaction
