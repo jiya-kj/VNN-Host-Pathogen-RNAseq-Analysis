@@ -34,7 +34,7 @@ The goal was to identify differentially expressed genes and understand affected 
 ![PCA](Figures/PCA/PCA_Day3_vs_control.png)
 
 ### Heatmap
-![Heatmap](Figures/Heatmap/HeatMap_Day3_vs_Control.png)
+![Heatmap](Figures/Heatmap/HeatMap_Day3_vs_control.png)
 
 ### MA Plot
 ![MA](Figures/MA/MA_Day3_vs_control.png)
