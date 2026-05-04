@@ -81,7 +81,7 @@ Early infection (Day 3) shows enrichment of protein catabolic and ubiquitin-medi
 **Interpretation:**  
 Later stage (Day 5) shows enrichment of ribosomal and immune-related processes, suggesting activation of protein synthesis and antiviral defense mechanisms.
 
-## 🔹 Day 3 vs Day 5 (Optional Comparison)
+## 🔹 Day 3 vs Day 5
 
 ### PCA
 ![PCA](Figures/PCA/PCA_Day3_vs_Day5.png)
