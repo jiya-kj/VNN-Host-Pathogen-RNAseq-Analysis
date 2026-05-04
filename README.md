@@ -26,6 +26,13 @@ The goal was to identify differentially expressed genes and understand affected 
 - Functional Enrichment: GO, KEGG (clusterProfiler)
 - Network Analysis: STRING + Cytoscape
 
+  ## Key Findings
+
+- Strong transcriptional changes observed at both Day 3 and Day 5
+- Early response (Day 3) dominated by protein catabolism and stress-related pathways
+- Later response (Day 5) shows activation of immune signaling and protein synthesis
+- Clear temporal shift in host response to viral infection
+
   # Results
 
 ## Day 3 vs Control
