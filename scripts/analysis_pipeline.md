@@ -7,16 +7,16 @@ This document outlines the computational workflow used to analyze RNA-seq data f
 - Purpose: Assess the quality of raw sequencing reads and identify potential issues such as low-quality bases or sequencing bias.
 
 ## 2. Read Trimming
-- Tool: Trimmomatic
+- Tool: Trimmomatic (Galaxy)
 - Purpose: Remove adapter sequences and low-quality regions to improve read quality for downstream analysis.
 
 ## 3. Read Alignment
-- Tool: HISAT2
+- Tool: HISAT2 (Galaxy)
 - Purpose: Align high-quality reads to the reference genome.
 - Output: SAM/BAM files for further analysis.
 
 ## 4. Gene Expression Quantification
-- Tool: featureCounts
+- Tool: featureCounts (Galaxy)
 - Purpose: Count reads mapped to each gene to generate a gene expression matrix.
 
 ## 5. Differential Gene Expression Analysis
